@@ -1,1 +1,1 @@
-my first readme
+school.mgc
